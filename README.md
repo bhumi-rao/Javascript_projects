@@ -22,6 +22,7 @@ It asks multiple-choice questions, tracks your score 🧮, and shows results �
 
 **03 🔑 Random Password Generator**  
 
-A simple app built with **HTML, CSS, and JavaScript** to generate secure random passwords.  
-It supports uppercase, lowercase, numbers, and symbols, and lets you 📋 copy the password with one click.  
+A simple app ⚡ built with **HTML, CSS, and JavaScript** to generate 🔒 secure random passwords.  
+It includes 🅰️ uppercase, 🔡 lowercase, 🔢 numbers, and 🔣 symbols, and lets you 📋 copy the password with one click.  
+
 
