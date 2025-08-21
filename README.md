@@ -12,16 +12,11 @@ You can ➕ add tasks, ✅ mark them as complete, ❌ delete them, and 💾 they
 🚀 Great project to practice **DOM, events, and localStorage**!  
 
 **02. Quiz App**  
-A simple and fun **Quiz Game** made with **HTML, CSS, and JavaScript**.  
-It asks multiple-choice questions, tracks your score 🧮, and shows results 🎉.  
-✨ Features:  
-- 📖 Questions & answers  
-- 📊 Score + progress  
-- 🏆 Result screen  
-🚀 Great for practicing **JavaScript basics**!
+A fun quiz 🎮 built with **HTML, CSS, and JavaScript**.  
+It asks ❓ questions, tracks 🧮 score, and shows 🏆 results 🎉.  
+
 
 **03 🔑 Random Password Generator**  
-
 A simple app ⚡ built with **HTML, CSS, and JavaScript** to generate 🔒 secure random passwords.  
 It includes 🅰️ uppercase, 🔡 lowercase, 🔢 numbers, and 🔣 symbols, and lets you 📋 copy the password with one click.  
 
