@@ -9,7 +9,7 @@ Each project is made with **HTML, CSS, and JavaScript**
 **01. ✅ To-Do List App**
 
 A simple and interactive **To-Do List** built using **HTML, CSS, and JavaScript**.  
-You can ➕ add tasks, mark them as complete, delete them, and they stay saved with localStorage.  
+You can add tasks, mark them as complete, delete them, and they stay saved with localStorage.  
 
 **02. 🧮 Quiz App**  
 
