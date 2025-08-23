@@ -31,6 +31,13 @@ You can create notes, delete them, and they stay saved with localStorage.
 
 A simple **Age Calculator** built with **HTML, CSS, and JavaScript**.  
 It calculates your exact age in years, months, and days from the birth date you select.  
+
+**06 📱 QR Code Generator**
+
+A simple **QR Code Generator** built with **HTML, CSS, and JavaScript**.  
+Enter text or a URL, and it instantly generates a scannable QR code.  
+
+
   
 
 
